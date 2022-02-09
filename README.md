@@ -6,3 +6,5 @@ Selasa, 8 Februari 2022 sampai Rabu, 9 Februari 2022 | Git dan GitHub (Progress 
 - Belajar cara gunain git
 - Belajar tentang bahasa2 yg keluar di modul
 
+HAIII COBA CEK
+
